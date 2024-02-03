@@ -1,0 +1,4 @@
+#Tue Jan 30 01:42:27 IST 2024
+base.0=/Users/priyanshulohani/Desktop/Projects/Internships/Prodigy InfoTech/Task 2(ToDo)/todo_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
